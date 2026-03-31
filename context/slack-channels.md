@@ -22,8 +22,8 @@
 
 | Channel Name                                | ID          | Notes                                                                                          |
 | ------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------- |
-| #dev-team-conversation-intelligence-monarch | C05FN62TF08 | Monarch team (PM: Zach Cohen) — signal-related development, AI Signals updates                 |
-| #dev-team-conversational-messaging-iris     | C08QLG4NRLP | Iris team (PM: Pierce Bae) — SMS agent development; Iris consumes the data extraction pipeline |
+| #dev-team-conversation-intelligence-monarch | C05FN62TF08 | Monarch team (PM: Zach C.) — signal-related development, AI Signals updates                    |
+| #dev-team-conversational-messaging-iris     | C08QLG4NRLP | Iris team (PM: Pierce B.) — SMS agent development; Iris consumes the data extraction pipeline  |
 
 
 ## BI
@@ -40,28 +40,28 @@
 
 | Person          | ID          | Notes                                            |
 | --------------- | ----------- | ------------------------------------------------ |
-| Adam Price      | D097N1FCK5E | Odyssey — DataHub, Data Extraction Pipeline      |
-| Melissa Roulier | D096M8JCCQG | Odyssey — Data Extraction Pipeline               |
-| Robert Prince   | D095YGJ8F42 | Odyssey — Migration and Infrastructure           |
-| Ryan Bales      | D095K8FD5R9 | Odyssey — Data Platform Team                     |
-| Surbhi Rathore  | D095TCPEJLC | Manager — VP of AI & Product Strategy            |
-| Zach Cohen      | D096D1LE5UY | Partner PM — Monarch                             |
-| Sam Reynolds    | D0962TM0NGM | Barnacles                                        |
-| Glenn Lawyer    | D096YHYLJ90 | Odyssey — tracker performance, model performance |
-| Yasmeen Wermers | D09658E8G03 | Partner PM — Phoenix (Redaction)                 |
+| Adam P.         | D097N1FCK5E | Odyssey — DataHub, Data Extraction Pipeline      |
+| Melissa R.      | D096M8JCCQG | Odyssey — Data Extraction Pipeline               |
+| Robert P.       | D095YGJ8F42 | Odyssey — Migration and Infrastructure           |
+| Ryan B.         | D095K8FD5R9 | Odyssey — Data Platform Team                     |
+| Surbhi R.       | D095TCPEJLC | Manager — VP of AI & Product Strategy            |
+| Zach C.         | D096D1LE5UY | Partner PM — Monarch                             |
+| Sam R.          | D0962TM0NGM | Barnacles                                        |
+| Glenn L.        | D096YHYLJ90 | Odyssey — tracker performance, model performance |
+| Yasmeen W.      | D09658E8G03 | Partner PM — Phoenix (Redaction)                 |
 
 
 ## Group Chats
 
 
-| Members                                    | ID          | Notes                  |
-| ------------------------------------------ | ----------- | ---------------------- |
-| Nathan Ziv, Surbhi Rathore                 | C097E63LSLF |                        |
-| Ryan Bales, Surbhi Rathore, Toshish Jawale | C096LD4KCKU |                        |
-| Adam Price, Austin Brender                 | C0AMBSXRU2J |                        |
-| Nick Burwell, Ryan Bales                   | C09GBGKRCLT |                        |
-| Adam Price, Ed Boyle, Nick Burwell         | C0ALVFPR8J2 | BI PII alignment group |
-| Ryan Bales, Surbhi Rathore                 | C09JWNMCN1K |                        |
+| Members                                       | ID          | Notes                  |
+| --------------------------------------------- | ----------- | ---------------------- |
+| Nathan Z., Surbhi R.                          | C097E63LSLF |                        |
+| Ryan B., Surbhi R., Toshish J.               | C096LD4KCKU |                        |
+| Adam P., Austin B.                            | C0AMBSXRU2J |                        |
+| Nick B., Ryan B.                              | C09GBGKRCLT |                        |
+| Adam P., Ed B., Nick B.                       | C0ALVFPR8J2 | BI PII alignment group |
+| Ryan B., Surbhi R.                            | C09JWNMCN1K |                        |
 
 
 ## Private / Restricted
@@ -82,5 +82,3 @@
 | #dev-deploy           | C02HNB39S | Deploy notifications |
 | #dev-announcements    | C02B56QL1 | Eng announcements    |
 | #production-incidents | C029Z4SV3 | Incidents            |
-
-
